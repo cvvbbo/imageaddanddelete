@@ -27,4 +27,13 @@
         android:layout_height="wrap_content"
         android:text="删除"/>
 
+    <Button
+        android:layout_below="@id/bt2"
+        android:id="@+id/bt3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="从相册中获取"/>
+
+
+
 </RelativeLayout>
